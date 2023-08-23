@@ -1,0 +1,16 @@
+export const LANG = {
+  LOG_IN: "login",
+  SIGN_UP: "signup",
+  DARK: "dark",
+  LIGHT: "light",
+  DASHBOARD: "dashboard",
+  LOG_OUT: "logout",
+  USERNAME: "username",
+  EMAIL: "email",
+  PASSWORD: "password",
+  SUBMIT: "submit",
+  ALREADY_HAVE_ACCOUNT: "already_have_account",
+  SIGN_UP_SUCCESS: "sign_up_success",
+  LOG_IN_SUCCESS: "log_in_success",
+  NO_VIDEOS_FOUND: "no_videos_found",
+};

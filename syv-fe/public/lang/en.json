@@ -1,0 +1,16 @@
+{
+  "login": "Log In",
+  "signup": "Sign Up",
+  "dark": "Dark",
+  "light": "Light",
+  "dashboard": "Dashboard",
+  "logout": "Log Out",
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit",
+  "already_have_account": "Already have account",
+  "sign_up_success": "Sign Up Successfully!",
+  "log_in_success": "Log In Successfully!",
+  "no_videos_found": "No videos found!"
+}

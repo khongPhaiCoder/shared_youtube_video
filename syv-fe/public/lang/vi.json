@@ -1,0 +1,16 @@
+{
+  "login": "Đăng nhập",
+  "signup": "Đăng kí",
+  "dark": "Tối",
+  "light": "Sáng",
+  "dashboard": "Trang cá nhân",
+  "logout": "Đăng xuất",
+  "username": "Tên người dùng",
+  "email": "Email",
+  "password": "Mật khẩu",
+  "submit": "Xong",
+  "already_have_account": "Đã có tài khoản",
+  "sign_up_success": "Đăng ký tài khoản thành công!",
+  "log_in_success": "Đăng nhập thành công!",
+  "no_videos_found": "Không tìm thấy video!"
+}
